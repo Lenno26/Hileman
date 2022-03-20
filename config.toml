@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Hileman & Lucas Trucking'
+theme = "minimal"

@@ -1,0 +1,9 @@
+[email]
+	source = "images/social_media/email.svg"
+	target = "mailto:Travishileman12@gmail.com"
+[facebook]
+	source = "images/social_media/facebook.svg"
+	target = "https://www.facebook.com/travis.hileman.35"
+[instagram]
+	source = "images/social_media/instagram.svg"
+	target = "https://www.instagram.com/hilemantravis/?hl=en"

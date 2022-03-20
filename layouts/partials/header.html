@@ -1,0 +1,17 @@
+<div class="header">
+	<img class="logo" src="images/logo.png"></img>
+	<h1 style="Color:red">Hileman <br>
+	& <br>Lucas Trucking</h1>
+
+	<hr class="header-separator"></hr>
+	<h1 style= "color:#1f84b6">Contact</h1>
+	<div class="social-media">
+		{{ range $.Site.Data.social_media }}
+			<div class="social-media-element">
+				<a href="{{ .target }}" target="_blank">
+					<img class="social-media-element svg" src="{{ .source }}"></img>
+				</a>
+			</div>
+		{{ end }}
+	</div>
+</div>
