@@ -1,7 +1,7 @@
 # HEADER/NAVBAR COLORS
 
 color_header = "#000000"				#Background color of the header
-color_navbar = "#111111" 				#Background color of the navbar
+color_navbar = "#000000" 				#Background color of the navbar
 
 color_social_media = "#1f84b6" 			#Color of the social media icons
 color_social_media_hover = "#FFB865" 	#Color of the social media icons on hover
