@@ -1,7 +1,7 @@
 +++
 +++
 
-&nbsp;&nbsp;&nbsp;&nbsp;**We are a small but ambitous trucking and logistics company based in southwestern Ohio. As a callabration we are just starting out with just a year under our belt but as individuals we have many years of trucking under our belts and a rich family hitory of Trucking in our distant and recent family histories.**
+&nbsp;&nbsp;&nbsp;&nbsp;**We are a small but ambitous trucking and logistics company based in southwestern Ohio. As a callabration we are just starting out with just a year under our belt but as individuals we have many years of trucking under our belts and a rich family history of Trucking in our distant and recent family histories.**
 **Our company is mostly comprised of close friends and family.**
 
 &nbsp;&nbsp;&nbsp;&nbsp;**We strive on express and punctilious delivery of your products.**
