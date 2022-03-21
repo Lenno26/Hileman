@@ -1,14 +1,9 @@
 <div class="navbar">
-		<h1>Welcome to Hileman & Lucas Trucking<>
 
 	<div class="collapsible-menu">
-		<h1>Welcome to Hileman & Lucas Trucking<>
-
 	</div>
-			<h1>Welcome to Hileman & Lucas Trucking<>
-
+	
 	{{ range (readDir "content") }}
-		<h1>Welcome to Hileman & Lucas Trucking<>
 
 		<div class="navbar-element" id="navbar@{{ lower (replace (substr .Name 0 -3) " " "-") }}">
 			<a href="#{{ lower (replace (substr .Name 0 -3) " " "-") }}">{{ substr .Name 0 -3 }}</a>
